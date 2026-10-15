@@ -468,5 +468,5 @@ The project was designed around a concrete geospatial problem rather than as a c
 Senior Full-Stack Engineer · AI Systems Engineer · Technical Lead
 
 - Portfolio: [fahadbilal.com](https://fahadbilal.com)
-- GitHub: [github.com/bilalmughal1](https://github.com/bilalmughal1)
+- GitHub: [github.com/fahadbilalsaleem](https://github.com/fahadbilalsaleem)
 - LinkedIn: [linkedin.com/in/fahadbilalsaleem](https://www.linkedin.com/in/fahadbilalsaleem)
